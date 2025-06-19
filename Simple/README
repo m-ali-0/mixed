@@ -1,0 +1,2 @@
+this simple program is for calculating gcd or lcm based on users choice. 
+the main purpose here is to chat with user and handle unwanted inputs like giving a string instead of a number or interrupting the program.
