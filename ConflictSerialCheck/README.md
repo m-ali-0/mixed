@@ -1,0 +1,1 @@
+this program takes transactions as input. returns 1 if it the transaction table is conflict serializable, and 0 if not. 
